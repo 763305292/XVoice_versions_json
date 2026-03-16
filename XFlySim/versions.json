@@ -1,0 +1,47 @@
+[
+  {
+    "PacketName": "Client_Win64_2.1.0-3.0.0",
+    "OldVersion": "2.1.0",
+    "NewVersion": "3.0.0",
+    "PatchUrl": "https://1819435062.v.123pan.cn/1819435062/XVoice/XFlySim/Updates/Win64/Client_Win64_2.1.0-3.0.0.zip",
+    "PubTime": "2026-03-08T19:06:22.069996+08:00",
+    "Platform": 2,
+    "ClientType": 0
+  },
+  {
+    "PacketName": "Client_Win64_3.0.0-3.1.0",
+    "OldVersion": "3.0.0",
+    "NewVersion": "3.1.0",
+    "PatchUrl": "https://1819435062.v.123pan.cn/1819435062/XVoice/XFlySim/Updates/Win64/Client_Win64_3.0.0-3.1.0.zip",
+    "PubTime": "2026-03-11T00:14:03.4644556+08:00",
+    "Platform": 2,
+    "ClientType": 0
+  },
+  {
+    "PacketName": "Client_Win64_3.1.0-3.1.1",
+    "OldVersion": "3.1.0",
+    "NewVersion": "3.1.1",
+    "PatchUrl": "https://1819435062.v.123pan.cn/1819435062/XVoice/XFlySim/Updates/Win64/Client_Win64_3.1.0-3.1.1.zip",
+    "PubTime": "2026-03-12T23:40:00.7047829+08:00",
+    "Platform": 2,
+    "ClientType": 0
+  },
+  {
+    "PacketName": "Client_Win64_3.1.1-3.1.2",
+    "OldVersion": "3.1.1",
+    "NewVersion": "3.1.2",
+    "PatchUrl": "https://1819435062.v.123pan.cn/1819435062/XVoice/XFlySim/Updates/Win64/Client_Win64_3.1.1-3.1.2.zip",
+    "PubTime": "2026-03-13T21:34:16.3125486+08:00",
+    "Platform": 2,
+    "ClientType": 0
+  },
+  {
+    "PacketName": "Updater_Win64_3.0.0-3.1.0",
+    "OldVersion": "3.0.0",
+    "NewVersion": "3.1.0",
+    "PatchUrl": "https://example.com/updates/Updater_Win64_3.0.0-3.1.0.zip",
+    "PubTime": "2026-03-10T12:55:35.2649407+08:00",
+    "Platform": 2,
+    "ClientType": 1
+  }
+]
