@@ -313,6 +313,15 @@
     "PubTime": "2026-04-23T00:58:21.530939+08:00",
     "Platform": 2,
     "ClientType": 0
-  }
+  },
+  {
+  "PacketName": "Updater_Win64_3.1.0-3.2.0",
+  "OldVersion": "3.1.0",
+  "NewVersion": "3.2.0",
+  "PatchUrl": "https://1819435062.v.123pan.cn/1819435062/XVoice/XFlySim/Updates/Win64/Updater_Win64_3.1.0-3.2.0.zip",
+  "PubTime": "2026-04-23T01:18:13.5418959+08:00",
+  "Platform": 2,
+  "ClientType": 1
+}
 
 ]
