@@ -331,6 +331,15 @@
   "PubTime": "2026-04-23T12:52:00.1021465+08:00",
   "Platform": 2,
   "ClientType": 1
+},
+  {
+  "PacketName": "Client_Win64_3.5.3-3.5.4",
+  "OldVersion": "3.5.3",
+  "NewVersion": "3.5.4",
+  "PatchUrl": "https://1819435062.v.123pan.cn/1819435062/XVoice/XFlySim/Updates/Win64/Client_Win64_3.5.3-3.5.4.zip",
+  "PubTime": "2026-04-24T02:31:49.3534346+08:00",
+  "Platform": 2,
+  "ClientType": 0
 }
 
 ]
