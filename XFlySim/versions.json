@@ -259,6 +259,15 @@
   "PubTime": "2026-09-19T00:07:34.3266793+08:00",
   "Platform": 2,
   "ClientType": 0
-}
+},
+  {
+    "PacketName": "Client_Win64_3.8.15-3.8.16",
+    "OldVersion": "3.8.15",
+    "NewVersion": "3.8.16",
+    "PatchUrl": "https://1819435062.v.123pan.cn/1819435062/XVoice/XFlySim/Updates/Win64/Client_Win64_3.8.15-3.8.16.zip",
+    "PubTime": "2026-09-23T12:23:49.3376267+08:00",
+    "Platform": 2,
+    "ClientType": 0
+  }
 
 ]
